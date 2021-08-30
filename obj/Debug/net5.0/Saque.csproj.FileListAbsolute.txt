@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\bin\Debug\net5.0\Saque.exe
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\bin\Debug\net5.0\Saque.deps.json
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\bin\Debug\net5.0\Saque.runtimeconfig.json
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\bin\Debug\net5.0\Saque.runtimeconfig.dev.json
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\bin\Debug\net5.0\Saque.dll
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\bin\Debug\net5.0\ref\Saque.dll
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\bin\Debug\net5.0\Saque.pdb
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\obj\Debug\net5.0\Saque.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\obj\Debug\net5.0\Saque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\obj\Debug\net5.0\Saque.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\obj\Debug\net5.0\Saque.AssemblyInfo.cs
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\obj\Debug\net5.0\Saque.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\obj\Debug\net5.0\Saque.dll
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\obj\Debug\net5.0\ref\Saque.dll
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\obj\Debug\net5.0\Saque.pdb
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\MateriAplicada\Saque\obj\Debug\net5.0\Saque.genruntimeconfig.cache
